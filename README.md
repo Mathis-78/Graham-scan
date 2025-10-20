@@ -1,6 +1,6 @@
 # 🌀 Calcul de l’enveloppe convexe — Algorithme de Graham
 
-Ce programme est l’un de mes **premiers projets d’algorithmique géométrique**, écrit **au collège**.  
+Ce programme est l’un de mes **premiers projets d’algorithmique géométrique**, écrit **au lycée**.  
 Il met en œuvre **l’algorithme de Graham Scan**, un classique pour calculer **l’enveloppe convexe** d’un nuage de points.  
 L’objectif : relier les points extérieurs d’un ensemble pour former la plus petite “coquille” les englobant tous.
 
